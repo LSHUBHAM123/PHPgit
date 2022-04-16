@@ -1,0 +1,6 @@
+This is the best file I'm going to write.I'm going to make it look amazing and it's for sure .Let's go.
+This is another content and we are writing it down.
+This is another content and we are writing it down again for demonstration.
+This is being appended to the file.
+This is being appended to the file.
+This is being appended to the file.
